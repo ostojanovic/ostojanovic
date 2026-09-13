@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I’m a founder of [spacebayes](https://www.linkedin.com/company/spacebayes/), an early-stage Data-as-a-Service startup for crop yield forecasting and physical climate risk. We give trading desks, insurers, reinsurers and food companies early forecasts at national and county levels, together with uncertainty estimates. For that, we’re building our own data infrastructure and fusing satellite (hyperspectral, optical and thermal), climate, weather and historical data. 
+I’m Olivera, a founder of [spacebayes](https://www.linkedin.com/company/spacebayes/), an early-stage Data-as-a-Service startup for crop yield forecasting and physical climate risk. 
+We give trading desks, insurers, reinsurers and food companies early forecasts at national and county levels, together with uncertainty estimates. For that, we’re building our own data infrastructure and fusing satellite (hyperspectral, optical and thermal), climate, weather and historical data. 
 
 I have six years of industry experience as a data scientist, where I focused on geospatial and Bayesian models, with applications in finance, supply chain and regional economic forecasting.
 
