@@ -8,8 +8,8 @@ I have six years of industry experience as a data scientist, where I focused on 
 I got a PhD in Cognitive Science from Osnabrück University, where I worked on interpretable machine learning for real-world applications, like public health and environmental sciences. Previously, I studied Physics (BSc) at the University of Novi Sad, Serbia.
 
 My work includes projects such as developing Bayesian models for:
-* predicting [leaf area index (LAI) from reflectance spectra](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2021.780814/full),
-* predicting [the spread of infectious diseases](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225838) and
+* predicting [leaf area index (LAI) from reflectance spectra of winter wheat](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2021.780814/full),
+* predicting [the spread of infectious diseases in German counties](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225838) and
 * predicting [concentrations of particulate matter (PM2.5) across counties in California](https://github.com/ostojanovic/air_quality).
 
 My hobby is [analog photography](https://www.stojanovic.science/photos), hiking and educating (aka bothering) my friends and family with David Lynch filmography.
